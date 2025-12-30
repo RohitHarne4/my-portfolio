@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://<your-username>.github.io/<repo-name>/",
+  "homepage": "https://RohitHarne.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -9,9 +9,9 @@
     "deploy": "gh-pages -d build -b gh-pages"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
-},
+    "gh-pages": "^5.0.0",
+    "react-scripts": "^5.0.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
